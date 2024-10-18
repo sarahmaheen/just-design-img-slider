@@ -1,3 +1,3 @@
 ## Vercel Deployment
-[Live Demo](https://your-project-name.vercel.app)
-# just-design-img-slider
+[Live Demo](https://auto-img-slider.vercel.app/)
+
